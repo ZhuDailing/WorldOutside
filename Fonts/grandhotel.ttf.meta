@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e89ebf7be0dea4708a3cd6aaddb9a3aa
+timeCreated: 1498438830
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Grand Hotel
+  fontNames:
+  - Grand Hotel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
